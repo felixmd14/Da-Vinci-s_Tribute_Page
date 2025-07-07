@@ -21,10 +21,6 @@ The tribute page provides a brief biography and highlights of Leonardo da Vinci�
 2. Open `index.html` in your browser to view the tribute page.
 3. Explore the content and follow the external link for more details.
 
-## 🖼️ Preview
-
-![Leonardo da Vinci Tribute Page Screenshot](https://www.summerboardingcourses.com/wp-content/uploads/2019/03/Leonardo-da-vinci-1024x838.jpg)
-
 ## 🗂️ File Structure
 
 
