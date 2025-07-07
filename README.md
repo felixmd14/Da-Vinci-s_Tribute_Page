@@ -45,4 +45,4 @@ This project is open source and free to use for learning and personal portfolio 
 
 ---
 
-Built with ❤️ for the freeCodeCamp Responsive Web Design project.
+Built for the freeCodeCamp Responsive Web Design project.
